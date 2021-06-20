@@ -16,9 +16,9 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/gorse-io/dashboard v0.0.0-20210617071223-310b8c2d7b7a
 	github.com/haxii/go-swagger-ui v3.19.4+incompatible
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.11
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/rakyll/statik v0.1.7
 	github.com/scylladb/go-set v1.0.2
 	github.com/spf13/cobra v0.0.7
